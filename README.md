@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# 437436999.github.io
 
-You can use the [editor on GitHub](https://github.com/ttony0/ttony0.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 开始
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 本博客根据 [这个](https://www.jianshu.com/p/e68fba58f75c) 主题模板进行配置与改造，感谢原作者
+- 博客的大致配置流程可查看[这里](https://437436999.github.io/2019/08/08/%E5%9F%BA%E4%BA%8EJekyll%E4%B8%8EGithub-Pages%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2.html)
 
-### Markdown
+## 历程
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 2019-08-08
 
-```markdown
-Syntax highlighted code block
+- 完成了博客的部署
+- 将部署过程写入博文
 
-# Header 1
-## Header 2
-### Header 3
+### 2019-09-06
 
-- Bulleted
-- List
+- 更换了博客模板，增加了目录、友链等信息
 
-1. Numbered
-2. List
+### 2019-09-30
 
-**Bold** and _Italic_ and `Code` text
+- 更新了代码高亮的样式，并调整了字号大小
 
-[Link](url) and ![Image](src)
-```
+## Todo
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [ ] 在博客里加入评论区
+- [ ] 学习`html`相关知识，继续对模板进行改造
+- [ ] 继续完善博客内容
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ttony0/ttony0.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 致谢
 
-### Support or Contact
+1. 这个模板是从这里 [Hux](https://github.com/Huxpro/huxpro.github.io) fork 的, 感谢这个作者。 
+2. 感谢 Jekyll、Github Pages 和 Bootstrap!
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## License
+
+遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://github.com/qiubaiying/qiubaiying.github.io/blob/master/LICENSE)。
