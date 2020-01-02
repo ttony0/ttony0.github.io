@@ -2,9 +2,9 @@
 title: 一视同仁
 SEOTitle: 一视同仁的博客
 header-img: img/bg.jpg
-#email: 437436999@qq.com
+email: chen1060253623@foxmail.com
 description: And we could run away.Before the light of day.
-keyword: "一视同仁, C++, 中山大学, steam"
+keyword: "一视同仁, C++, 中山大学, steam, 本科老咸鱼一条"
 url: "https://ttony0.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/ttony0/ttony0.github.io" # you code repository
@@ -12,14 +12,14 @@ github_repo: "https://github.com/ttony0/ttony0.github.io" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "天道酬勤"
-sidebar-avatar: /img/profile.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/profile.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     chen-chen-73-36
+zhihu_username:     yi-shi-tong-ren-43
 github_username:    ttony0
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
@@ -100,23 +100,15 @@ service-worker: true
 # Friends
 friends: [
      {
-        title: "SuMei's Blog",
-        href: "https://wsbfdzz.github.io/"
-     },
-     {
         title: "Ender's Blog",
         href: "https://ender-coder.github.io/"
      },
      {
-        title: "52hert-z's Blog",
-        href: "https://52hert-z.github.io/"
-     },
-     {
-        title: "Healer's Blog",
-        href: "https://komicareborn.github.io/"
-     },
-     {
         title: "biubiu's Blog",
         href: "https://biubiu0719.github.io//"
+     },
+     {
+        title: "Max.C's Blog",
+        href: "http://437436999.github.io//"
      }
 ]
